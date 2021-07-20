@@ -1,4 +1,8 @@
-# Mchezopesa-Ltd-IP-Week-6---Ted-Askoye
+# Mchezopesa Ltd - Week 6
+## Mchezopesa Ltd Project
+####*by Ted Askoye Samuel*
+
+
 ## Overview 
 Create a model that can be able to undertake the prediction result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (include rank in your training) using two possible approaches (as  shown below) given the datasets provided
 
