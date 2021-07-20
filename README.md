@@ -1,6 +1,6 @@
 # Mchezopesa Ltd - Week 6
 ## Mchezopesa Ltd Project
-####*by Ted Askoye Samuel*
+#### *by Ted Askoye Samuel*
 
 
 ## Overview 
