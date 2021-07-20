@@ -56,4 +56,16 @@ Some features are available on the FIFA ranking page : https://www.fifa.com/fifa
 
 The dataset and glossary to use for this project can be found here : https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc 
 
+## Setup/Installation Requirements
+* A laptop and good internet connection
+
+## Known Bugs
+{There are no known bugs. }
+## Technologies Used
+{Google Colaboratory, Github Account }
+## Support and contact details
+{For more information on the project contact the author on [tedsam10@gmail.com] .}
+### LicenseMIT License
+
+Copyright (c) [2020] [Ted Askoye Samuel]
 
